@@ -23,8 +23,6 @@ class PuppetLint(Linter):
 
 
     def split_match(self, match):
-        print('plit_match')
-        print(match)
    
         """Return the components of the error."""
         split_match = super(PuppetLint, self).split_match(match)
@@ -35,7 +33,6 @@ class PuppetLint(Linter):
 
 
     def cmd(self):
-        print('cmd')
         """Return the command line to execute."""
         result = self.executable + ' ' + self.base_cmd
 
