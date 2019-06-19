@@ -10,4 +10,5 @@ Author: Medvosa
 License: MIT
 
 Used source from: https://github.com/dschaaff/SublimeLinter-puppet-lint/
+
 Author: dschaaff
