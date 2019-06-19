@@ -3,4 +3,4 @@ title=Linter for Puppet, using 'puppet-lint'
 desc=Linter for CudaLint, adds support for Puppet lexer, using 'puppet-lint'
 type=cudatext-plugin
 subdir=cuda_lint_puppet_lint
-homepage=https://github.com/medvosa/cuda_lint_puppet
+homepage=https://github.com/medvosa/cuda_lint_puppet_lint
