@@ -17,7 +17,7 @@ class PuppetLint(Linter):
     base_cmd = ('--log-format '
                 '%{line}:%{column}:%{kind}:%{message} '
                 '*')
-    tempfile_suffix = 'rb'
+    tempfile_suffix = 'puppet'
     error_stream = util.STREAM_STDOUT
     word_re = r'^(".*?"|[-\w]+)'
 
