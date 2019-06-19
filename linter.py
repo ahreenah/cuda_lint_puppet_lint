@@ -1,8 +1,6 @@
-"""This module exports the Perl -c util."""
+"""This module exports the puppet-lint util."""
 
 from cuda_lint import Linter, util
-from cudatext import * 
-
 
 class PuppetLint(Linter):
 
