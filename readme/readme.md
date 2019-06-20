@@ -7,7 +7,7 @@ It uses "puppet-lint".
 How to install:
   run following command in your terminal:
     $ sudo apt install puppet-lint
-  If you are not using Ubuntu or debian then you should use another installation method
+  If you are not using Ubuntu or Debian then you should use another installation method
 
 Author: Medvosa
 
